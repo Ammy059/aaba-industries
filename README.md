@@ -1,3 +1,2 @@
-# Aaba Industries Portal
-
-React + Express + MySQL starter project with QR attendance.
+Aaba Industries Portal
+QR Attendance + Employee Management
