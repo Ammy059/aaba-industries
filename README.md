@@ -1,2 +1,2 @@
-Aaba Industries Portal
-QR Attendance + Employee Management
+# Aaba Industries Portal
+Final starter project structure.
