@@ -1,5 +1,0 @@
-
-CREATE TABLE employees(
- id INT AUTO_INCREMENT PRIMARY KEY,
- employee_code VARCHAR(20)
-);
